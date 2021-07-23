@@ -1,0 +1,12 @@
+.list-item {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+.desc {
+  color: #475569;
+}
+.arrow {
+  width: 20px;
+  height: 20px;
+}
